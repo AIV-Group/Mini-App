@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Study Buddy",
+    "headerTitle": "Study Buddy",
+    "headerColor": "#2483ff",
+    "textColor": "white",
+    "textAlign": "left",
+    "statusBarColor": {
+      "light": "#2483ff",
+      "dark": "#2483ff"
+    },
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "selfControlLoading": false
+  },
+  "debug": false,
+  "pages": [],
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "template": {}
+}
